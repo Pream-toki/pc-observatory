@@ -1,0 +1,9 @@
+[project]
+name = "pc-observatory"
+version = "0.1.0"
+description = "Local-first PC observability, inventory, and learning tool."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
