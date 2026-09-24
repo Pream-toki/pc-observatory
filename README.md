@@ -182,3 +182,11 @@ docs/                    architecture and developer notes
 - Scheduled tasks are read through a fixed read-only PowerShell query.
 - Security event logs need the right to read them; without it the Events page
   says "Permission required" instead of showing partial guesses.
+
+## Screenshots
+
+TODO: add screenshots here (drag an image file onto this page on github.com to upload it)
+
+## License
+
+MIT — see [LICENSE](LICENSE).
